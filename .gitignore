@@ -1,0 +1,23 @@
+# Datos reales (por si alguien copia sin querer)
+clientes.json
+talleres.json
+datos_almacen.json
+prevision.json
+
+# Datos locales del usuario
+config.json
+*.local.json
+
+# Exportaciones y archivos generados
+EXPORTAR_CSV/
+csv_exportados/
+backups/
+__pycache__/
+*.csv
+*.xlsx
+
+# Entornos
+.env
+.env.local
+.venv/
+venv/

@@ -1,0 +1,35 @@
+{
+  "MOD001": {
+    "descripcion": "Blazer mujer slim",
+    "familia": "BLAZER",
+    "color": "MARINO",
+    "stock": {
+      "34": 10,
+      "36": 5,
+      "38": 0,
+      "40": -3,
+      "42": 25
+    }
+  },
+  "MOD002": {
+    "descripcion": "Pantalón hombre regular",
+    "familia": "PANTALON",
+    "color": "NEGRO",
+    "stock": {
+      "38": 50,
+      "40": 20,
+      "42": 8,
+      "44": -5
+    }
+  },
+  "MOD003": {
+    "descripcion": "Falda tubo",
+    "familia": "FALDA",
+    "color": "NEGRO",
+    "stock": {
+      "36": -10,
+      "38": -2,
+      "40": 5
+    }
+  }
+}

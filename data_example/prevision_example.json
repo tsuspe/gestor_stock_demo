@@ -1,0 +1,56 @@
+{
+  "stock": {
+    "MOD001": {
+      "34": 12,
+      "36": 0,
+      "38": -5,
+      "40": -10,
+      "42": 20
+    },
+    "MOD002": {
+      "38": 40,
+      "40": 15,
+      "42": 5,
+      "44": -8
+    }
+  },
+  "ordenes": [],
+  "pedidos": [
+    {
+      "modelo": "MOD001",
+      "talla": "36",
+      "cantidad": 10,
+      "pedido": "00001/2025",
+      "numero_pedido": "10001",
+      "cliente": "CLIENTE_A",
+      "fecha": "2025-10-15"
+    },
+    {
+      "modelo": "MOD001",
+      "talla": "38",
+      "cantidad": 20,
+      "pedido": "00002/2025",
+      "numero_pedido": "10002",
+      "cliente": "CLIENTE_A",
+      "fecha": "2025-11-05"
+    },
+    {
+      "modelo": "MOD001",
+      "talla": "40",
+      "cantidad": 15,
+      "pedido": "00003/2025",
+      "numero_pedido": "10003",
+      "cliente": "CLIENTE_B",
+      "fecha": "2025-12-10"
+    },
+    {
+      "modelo": "MOD002",
+      "talla": "42",
+      "cantidad": 30,
+      "pedido": "00004/2025",
+      "numero_pedido": "10004",
+      "cliente": "CLIENTE_B",
+      "fecha": "2026-01-20"
+    }
+  ]
+}

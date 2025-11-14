@@ -1,0 +1,14 @@
+{
+  "CLIENTE_A": {
+    "nombre": "Cliente A",
+    "tipo": "AEREO"
+  },
+  "CLIENTE_B": {
+    "nombre": "Cliente B",
+    "tipo": "HANDLING"
+  },
+  "CLIENTE_C": {
+    "nombre": "Cliente C",
+    "tipo": "INTERNO"
+  }
+}

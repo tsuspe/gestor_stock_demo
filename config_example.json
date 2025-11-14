@@ -1,0 +1,8 @@
+{
+  "data_dir": "data_example",
+  "datos_almacen_file": "datos_almacen_example.json",
+  "prevision_file": "prevision_example.json",
+  "clientes_file": "clientes_example.json",
+  "talleres_file": "talleres_example.json",
+  "export_dir": "EXPORTAR_CSV"
+}
